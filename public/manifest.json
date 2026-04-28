@@ -1,0 +1,19 @@
+{
+  "name": "Filosofiya sabaqliq",
+  "short_name": "FILOSOFIYA",
+  "description": "Filosofiya tariyxı hám tiykarları haqqında interaktiv qollanba",
+  "id": "/filosofiya002/",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#00008B",
+  "theme_color": "#DAA520",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
